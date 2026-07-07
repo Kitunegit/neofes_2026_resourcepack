@@ -1,0 +1,49 @@
+{
+	"textures": {
+		"0": "aj:blueprint/wildfire/wildfire_normal",
+		"particle": "minecraft:item/pufferfish"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [0.94118, -16, 5.17647],
+			"to": [15.05882, 8, 8],
+			"rotation": {
+				"x": 25,
+				"y": 0,
+				"z": 0,
+				"origin": [8, 8, 6.58824]
+			},
+			"faces": {
+				"north": {
+					"uv": [0, 2.375, 1.25, 4.75],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [5, 5.375, 5.25, 7.75],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [1.25, 2.375, 2.5, 4.75],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [5.25, 5.375, 5.5, 7.75],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [7, 3.5, 5.75, 3.25],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [7, 3.5, 5.75, 3.75],
+					"texture": "#0"
+				}
+			}
+		}
+	]
+}

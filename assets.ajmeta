@@ -1,0 +1,30 @@
+{
+	"formatVersion": "1.0.0",
+	"rigs": {
+		"aj:wildfire": {
+			"coreFiles": ["assets/minecraft/atlases/blocks.json", "pack.mcmeta"],
+			"versionedFiles": [
+				"assets/aj/items/blueprint/wildfire/body.json",
+				"assets/aj/items/blueprint/wildfire/head1.json",
+				"assets/aj/items/blueprint/wildfire/shield5.json",
+				"assets/aj/items/blueprint/wildfire/shield6.json",
+				"assets/aj/items/blueprint/wildfire/shield7.json",
+				"assets/aj/items/blueprint/wildfire/shield8.json",
+				"assets/aj/models/blueprint/wildfire/body.json",
+				"assets/aj/models/blueprint/wildfire/head1.json",
+				"assets/aj/models/blueprint/wildfire/shield5.json",
+				"assets/aj/models/blueprint/wildfire/shield6.json",
+				"assets/aj/models/blueprint/wildfire/shield7.json",
+				"assets/aj/models/blueprint/wildfire/shield8.json",
+				"assets/aj/models/blueprint/wildfire/soul_wildfire/body.json",
+				"assets/aj/models/blueprint/wildfire/soul_wildfire/head1.json",
+				"assets/aj/models/blueprint/wildfire/soul_wildfire/shield5.json",
+				"assets/aj/models/blueprint/wildfire/soul_wildfire/shield6.json",
+				"assets/aj/models/blueprint/wildfire/soul_wildfire/shield7.json",
+				"assets/aj/models/blueprint/wildfire/soul_wildfire/shield8.json",
+				"assets/aj/textures/blueprint/wildfire/wildfire_normal.png",
+				"assets/aj/textures/blueprint/wildfire/wildfire_soul.png"
+			]
+		}
+	}
+}
