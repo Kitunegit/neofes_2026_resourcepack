@@ -1,6 +1,0 @@
-{
-	"parent": "aj:blueprint/wildfire/head1",
-	"textures": {
-		"0": "aj:blueprint/wildfire/wildfire_soul"
-	}
-}

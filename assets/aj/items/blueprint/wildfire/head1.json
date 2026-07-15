@@ -8,16 +8,6 @@
 				"model": {
 					"type": "minecraft:empty"
 				}
-			},
-			{
-				"when": "soul_wildfire",
-				"model": {
-					"type": "minecraft:model",
-					"model": "aj:blueprint/wildfire/soul_wildfire/head1",
-					"tints": [
-						{"type": "minecraft:dye", "default": [1, 1, 1]}
-					]
-				}
 			}
 		],
 		"fallback": {
