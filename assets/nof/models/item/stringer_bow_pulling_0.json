@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/bow",
+  "textures": {
+    "layer0": "nof:item/stringer_bow_pulling_0"
+  }
+}
