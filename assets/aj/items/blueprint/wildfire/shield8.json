@@ -10,10 +10,10 @@
 				}
 			},
 			{
-				"when": "soul_wildfire",
+				"when": "soul_mode",
 				"model": {
 					"type": "minecraft:model",
-					"model": "aj:blueprint/wildfire/soul_wildfire/shield8",
+					"model": "aj:blueprint/wildfire/soul_mode/shield8",
 					"tints": [
 						{"type": "minecraft:dye", "default": [1, 1, 1]}
 					]

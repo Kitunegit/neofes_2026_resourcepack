@@ -16,12 +16,12 @@
 				"assets/aj/models/blueprint/wildfire/shield6.json",
 				"assets/aj/models/blueprint/wildfire/shield7.json",
 				"assets/aj/models/blueprint/wildfire/shield8.json",
-				"assets/aj/models/blueprint/wildfire/soul_wildfire/body.json",
-				"assets/aj/models/blueprint/wildfire/soul_wildfire/head1.json",
-				"assets/aj/models/blueprint/wildfire/soul_wildfire/shield5.json",
-				"assets/aj/models/blueprint/wildfire/soul_wildfire/shield6.json",
-				"assets/aj/models/blueprint/wildfire/soul_wildfire/shield7.json",
-				"assets/aj/models/blueprint/wildfire/soul_wildfire/shield8.json",
+				"assets/aj/models/blueprint/wildfire/soul_mode/body.json",
+				"assets/aj/models/blueprint/wildfire/soul_mode/head1.json",
+				"assets/aj/models/blueprint/wildfire/soul_mode/shield5.json",
+				"assets/aj/models/blueprint/wildfire/soul_mode/shield6.json",
+				"assets/aj/models/blueprint/wildfire/soul_mode/shield7.json",
+				"assets/aj/models/blueprint/wildfire/soul_mode/shield8.json",
 				"assets/aj/textures/blueprint/wildfire/wildfire_normal.png",
 				"assets/aj/textures/blueprint/wildfire/wildfire_soul.png"
 			]
