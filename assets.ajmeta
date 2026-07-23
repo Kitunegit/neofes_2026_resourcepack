@@ -17,11 +17,23 @@
 				"assets/aj/models/blueprint/wildfire/death/shield6.json",
 				"assets/aj/models/blueprint/wildfire/death/shield7.json",
 				"assets/aj/models/blueprint/wildfire/death/shield8.json",
+				"assets/aj/models/blueprint/wildfire/default_damage/body.json",
+				"assets/aj/models/blueprint/wildfire/default_damage/head1.json",
+				"assets/aj/models/blueprint/wildfire/default_damage/shield5.json",
+				"assets/aj/models/blueprint/wildfire/default_damage/shield6.json",
+				"assets/aj/models/blueprint/wildfire/default_damage/shield7.json",
+				"assets/aj/models/blueprint/wildfire/default_damage/shield8.json",
 				"assets/aj/models/blueprint/wildfire/head1.json",
 				"assets/aj/models/blueprint/wildfire/shield5.json",
 				"assets/aj/models/blueprint/wildfire/shield6.json",
 				"assets/aj/models/blueprint/wildfire/shield7.json",
 				"assets/aj/models/blueprint/wildfire/shield8.json",
+				"assets/aj/models/blueprint/wildfire/soul_damage/body.json",
+				"assets/aj/models/blueprint/wildfire/soul_damage/head1.json",
+				"assets/aj/models/blueprint/wildfire/soul_damage/shield5.json",
+				"assets/aj/models/blueprint/wildfire/soul_damage/shield6.json",
+				"assets/aj/models/blueprint/wildfire/soul_damage/shield7.json",
+				"assets/aj/models/blueprint/wildfire/soul_damage/shield8.json",
 				"assets/aj/models/blueprint/wildfire/soul_mode/body.json",
 				"assets/aj/models/blueprint/wildfire/soul_mode/head1.json",
 				"assets/aj/models/blueprint/wildfire/soul_mode/shield5.json",
@@ -29,7 +41,10 @@
 				"assets/aj/models/blueprint/wildfire/soul_mode/shield7.json",
 				"assets/aj/models/blueprint/wildfire/soul_mode/shield8.json",
 				"assets/aj/textures/blueprint/wildfire/wildfire_death.png",
-				"assets/aj/textures/blueprint/wildfire/wildfire_soul.png"
+				"assets/aj/textures/blueprint/wildfire/wildfire_normal.png",
+				"assets/aj/textures/blueprint/wildfire/wildfire_normal_damage.png",
+				"assets/aj/textures/blueprint/wildfire/wildfire_soul.png",
+				"assets/aj/textures/blueprint/wildfire/wildfire_soul_damage.png"
 			]
 		}
 	}

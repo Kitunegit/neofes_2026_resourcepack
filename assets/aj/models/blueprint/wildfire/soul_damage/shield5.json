@@ -1,0 +1,6 @@
+{
+	"parent": "aj:blueprint/wildfire/shield5",
+	"textures": {
+		"0": "aj:blueprint/wildfire/wildfire_soul_damage"
+	}
+}
