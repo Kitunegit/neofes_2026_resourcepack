@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"0": "aj:blueprint/wildfire/wildfire_normal",
+		"1": "aj:blueprint/wildfire/wildfire_soul",
 		"particle": "minecraft:item/pufferfish"
 	},
 	"display": {
@@ -21,27 +21,27 @@
 			"faces": {
 				"north": {
 					"uv": [0, 2.375, 1.25, 4.75],
-					"texture": "#0"
+					"texture": "#1"
 				},
 				"east": {
 					"uv": [5, 5.375, 5.25, 7.75],
-					"texture": "#0"
+					"texture": "#1"
 				},
 				"south": {
 					"uv": [1.25, 2.375, 2.5, 4.75],
-					"texture": "#0"
+					"texture": "#1"
 				},
 				"west": {
 					"uv": [5.25, 5.375, 5.5, 7.75],
-					"texture": "#0"
+					"texture": "#1"
 				},
 				"up": {
 					"uv": [7, 3.5, 5.75, 3.25],
-					"texture": "#0"
+					"texture": "#1"
 				},
 				"down": {
 					"uv": [7, 3.5, 5.75, 3.75],
-					"texture": "#0"
+					"texture": "#1"
 				}
 			}
 		}
