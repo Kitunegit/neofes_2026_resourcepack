@@ -1,0 +1,5 @@
+{
+	"death.attack.wildfire": "%1$sは燃え尽きた",
+    "death.attack.wildfire.player": "%1$sは%2$sに骨まで焼き尽くされた",
+    "death.attack.wildfire.item": "%1$sは%2$sの%3$sで跡形もなく燃え尽きた"
+}
