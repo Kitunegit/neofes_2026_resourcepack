@@ -28,6 +28,26 @@
 						{"type": "minecraft:dye", "default": [1, 1, 1]}
 					]
 				}
+			},
+			{
+				"when": "default_damage",
+				"model": {
+					"type": "minecraft:model",
+					"model": "aj:blueprint/wildfire/default_damage/body",
+					"tints": [
+						{"type": "minecraft:dye", "default": [1, 1, 1]}
+					]
+				}
+			},
+			{
+				"when": "soul_damage",
+				"model": {
+					"type": "minecraft:model",
+					"model": "aj:blueprint/wildfire/soul_damage/body",
+					"tints": [
+						{"type": "minecraft:dye", "default": [1, 1, 1]}
+					]
+				}
 			}
 		],
 		"fallback": {
