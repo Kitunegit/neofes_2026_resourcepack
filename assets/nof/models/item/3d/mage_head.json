@@ -4,7 +4,7 @@
 	"ambientocclusion": false,
 	"texture_size": [64, 64],
 	"textures": {
-		"3": "nof:item/mage_head"
+		"3": "nof:item/3d/mage_head"
 	},
 	"elements": [
 		{
