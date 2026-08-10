@@ -1,0 +1,6 @@
+{
+	"parent": "nof:blueprint/evoker/page3",
+	"textures": {
+		"0": "nof:blueprint/evoker/1evoker"
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "nof:blueprint/evoker/bone",
+	"textures": {
+		"0": "nof:blueprint/evoker/1evoker"
+	}
+}
