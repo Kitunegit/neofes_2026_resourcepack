@@ -7,13 +7,13 @@
         "when": "gui",
         "model": {
           "type": "minecraft:model",
-          "model": "nof:item/mage_head"
+          "model": "nof:item/healer_head"
         }
       }
     ],
     "fallback": {
       "type":"minecraft:model",
-      "model": "nof:item/3d/mage_head"
+      "model": "nof:item/3d/healer_head"
     }
   }
 }

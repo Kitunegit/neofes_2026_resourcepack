@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/diamond",
   "textures": {
-    "layer0": "nof:item/mage_head"
+    "layer0": "nof:item/warrior_head"
   }
 }
