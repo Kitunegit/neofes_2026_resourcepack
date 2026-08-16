@@ -1,0 +1,6 @@
+{
+	"parent": "aj:blueprint/evoker/leg_b",
+	"textures": {
+		"1": "aj:blueprint/evoker/evoker"
+	}
+}

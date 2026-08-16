@@ -1,0 +1,24 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"texture_size": [128, 128],
+	"textures": {
+		"0": "minecraft:item/damage_display",
+		"particle": "minecraft:item/damage_display"
+	},
+	"elements": [
+		{
+			"from": [-14, 0, -14],
+			"to": [30, 0, 30],
+			"rotation": {"angle": 0, "axis": "y", "origin": [2, 0, 0]},
+			"faces": {
+				"north": {"uv": [0, 0, 5.5, 0], "texture": "#missing"},
+				"east": {"uv": [0, 0, 5.5, 0], "texture": "#missing"},
+				"south": {"uv": [0, 0, 5.5, 0], "texture": "#missing"},
+				"west": {"uv": [0, 0, 5.5, 0], "texture": "#missing"},
+				"up": {"uv": [5.875, 5.75, 0.25, 0.125], "texture": "#0"},
+				"down": {"uv": [5.875, 6, 0.25, 11.625], "texture": "#0"}
+			}
+		}
+	]
+}

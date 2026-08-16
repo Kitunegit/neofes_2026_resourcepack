@@ -1,0 +1,50 @@
+{
+	"textures": {
+		"0": "aj:blueprint/evoker/evoker",
+		"particle": "minecraft:item/pufferfish"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [11.999, 8.999, 6.999],
+			"to": [17.501, 10.501, 15.001],
+			"rotation": {
+				"x": 0,
+				"y": 0,
+				"z": 15,
+				"origin": [8, 8, 8]
+			},
+			"faces": {
+				"north": {
+					"uv": [0, 7.25, 0.875, 7.4375],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [0, 7.25, 0.875, 7.4375],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [0, 7.5, 0.875, 7.6875],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [0, 7.25, 0.875, 7.4375],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [1.375, 6.25, 2, 7.25],
+					"rotation": 180,
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [1.375, 6.25, 2, 7.25],
+					"texture": "#0"
+				}
+			}
+		}
+	]
+}
