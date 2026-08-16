@@ -1,6 +1,0 @@
-{
-	"parent": "nof:blueprint/evoker/leg_b",
-	"textures": {
-		"0": "nof:blueprint/evoker/1evoker_spawn"
-	}
-}

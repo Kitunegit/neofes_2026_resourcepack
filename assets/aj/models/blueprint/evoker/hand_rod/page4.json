@@ -1,0 +1,6 @@
+{
+	"parent": "aj:blueprint/evoker/page4",
+	"textures": {
+		"0": "aj:blueprint/evoker/evoker_hand"
+	}
+}

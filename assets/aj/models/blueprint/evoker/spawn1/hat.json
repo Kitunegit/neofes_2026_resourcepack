@@ -1,0 +1,6 @@
+{
+	"parent": "aj:blueprint/evoker/hat",
+	"textures": {
+		"0": "aj:blueprint/evoker/1evoker_spawn"
+	}
+}
