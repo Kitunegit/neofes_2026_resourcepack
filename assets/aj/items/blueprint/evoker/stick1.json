@@ -38,6 +38,76 @@
 						{"type": "minecraft:dye", "default": [1, 1, 1]}
 					]
 				}
+			},
+			{
+				"when": "hand_fire",
+				"model": {
+					"type": "minecraft:model",
+					"model": "aj:blueprint/evoker/hand_fire/stick1",
+					"tints": [
+						{"type": "minecraft:dye", "default": [1, 1, 1]}
+					]
+				}
+			},
+			{
+				"when": "hand_ice",
+				"model": {
+					"type": "minecraft:model",
+					"model": "aj:blueprint/evoker/hand_ice/stick1",
+					"tints": [
+						{"type": "minecraft:dye", "default": [1, 1, 1]}
+					]
+				}
+			},
+			{
+				"when": "hand_light",
+				"model": {
+					"type": "minecraft:model",
+					"model": "aj:blueprint/evoker/hand_light/stick1",
+					"tints": [
+						{"type": "minecraft:dye", "default": [1, 1, 1]}
+					]
+				}
+			},
+			{
+				"when": "form_change",
+				"model": {
+					"type": "minecraft:model",
+					"model": "aj:blueprint/evoker/form_change/stick1",
+					"tints": [
+						{"type": "minecraft:dye", "default": [1, 1, 1]}
+					]
+				}
+			},
+			{
+				"when": "2hand_fire",
+				"model": {
+					"type": "minecraft:model",
+					"model": "aj:blueprint/evoker/2hand_fire/stick1",
+					"tints": [
+						{"type": "minecraft:dye", "default": [1, 1, 1]}
+					]
+				}
+			},
+			{
+				"when": "2hand_ice",
+				"model": {
+					"type": "minecraft:model",
+					"model": "aj:blueprint/evoker/2hand_ice/stick1",
+					"tints": [
+						{"type": "minecraft:dye", "default": [1, 1, 1]}
+					]
+				}
+			},
+			{
+				"when": "2hand_light",
+				"model": {
+					"type": "minecraft:model",
+					"model": "aj:blueprint/evoker/2hand_light/stick1",
+					"tints": [
+						{"type": "minecraft:dye", "default": [1, 1, 1]}
+					]
+				}
 			}
 		],
 		"fallback": {

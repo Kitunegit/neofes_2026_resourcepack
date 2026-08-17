@@ -1,0 +1,8 @@
+{
+	"parent": "aj:blueprint/evoker/book",
+	"textures": {
+		"0": "aj:blueprint/evoker/evoker2_red",
+		"1": "aj:blueprint/evoker/1evoker_hurt",
+		"7": "aj:blueprint/evoker/evoker2_red"
+	}
+}

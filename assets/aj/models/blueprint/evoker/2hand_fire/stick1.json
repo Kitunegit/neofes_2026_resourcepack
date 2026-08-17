@@ -1,0 +1,8 @@
+{
+	"parent": "aj:blueprint/evoker/stick1",
+	"textures": {
+		"8": "aj:blueprint/evoker/evoker2_red",
+		"9": "aj:blueprint/evoker/evoker2_red",
+		"10": "aj:blueprint/evoker/evoker2_red"
+	}
+}
