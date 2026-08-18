@@ -40,16 +40,6 @@
 				}
 			},
 			{
-				"when": "hand_rod",
-				"model": {
-					"type": "minecraft:model",
-					"model": "aj:blueprint/evoker/hand_rod/nose",
-					"tints": [
-						{"type": "minecraft:dye", "default": [1, 1, 1]}
-					]
-				}
-			},
-			{
 				"when": "rod",
 				"model": {
 					"type": "minecraft:model",
