@@ -1,5 +1,5 @@
 {
-	"parent": "aj:blueprint/evoker/bone8",
+	"parent": "aj:blueprint/evoker/page1",
 	"textures": {
 		"0": "aj:blueprint/evoker/evoker",
 		"1": "aj:blueprint/evoker/evoker",

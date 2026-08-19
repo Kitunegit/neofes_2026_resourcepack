@@ -1,6 +1,13 @@
 {
 	"parent": "aj:blueprint/evoker/bone2",
 	"textures": {
-		"0": "aj:blueprint/evoker/evoker"
+		"0": "aj:blueprint/evoker/evoker",
+		"1": "aj:blueprint/evoker/evoker",
+		"5": "aj:blueprint/evoker/evoker",
+		"6": "aj:blueprint/evoker/evoker",
+		"7": "aj:blueprint/evoker/evoker",
+		"8": "aj:blueprint/evoker/evoker2_yellow",
+		"9": "aj:blueprint/evoker/evoker2_blue",
+		"10": "aj:blueprint/evoker/evoker2_red"
 	}
 }
