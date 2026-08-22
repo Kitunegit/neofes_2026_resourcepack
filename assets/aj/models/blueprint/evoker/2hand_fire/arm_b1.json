@@ -1,0 +1,10 @@
+{
+	"parent": "aj:blueprint/evoker/arm_b1",
+	"textures": {
+		"0": "aj:blueprint/evoker/evoker2_red",
+		"1": "aj:blueprint/evoker/evoker2_red",
+		"8": "aj:blueprint/evoker/evoker2_red",
+		"9": "aj:blueprint/evoker/evoker2_red",
+		"10": "aj:blueprint/evoker/evoker2_red"
+	}
+}

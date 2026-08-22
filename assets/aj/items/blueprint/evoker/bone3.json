@@ -78,6 +78,36 @@
 						{"type": "minecraft:dye", "default": [1, 1, 1]}
 					]
 				}
+			},
+			{
+				"when": "2hand_fire",
+				"model": {
+					"type": "minecraft:model",
+					"model": "aj:blueprint/evoker/2hand_fire/bone3",
+					"tints": [
+						{"type": "minecraft:dye", "default": [1, 1, 1]}
+					]
+				}
+			},
+			{
+				"when": "2hand_ice",
+				"model": {
+					"type": "minecraft:model",
+					"model": "aj:blueprint/evoker/2hand_ice/bone3",
+					"tints": [
+						{"type": "minecraft:dye", "default": [1, 1, 1]}
+					]
+				}
+			},
+			{
+				"when": "2hand_light",
+				"model": {
+					"type": "minecraft:model",
+					"model": "aj:blueprint/evoker/2hand_light/bone3",
+					"tints": [
+						{"type": "minecraft:dye", "default": [1, 1, 1]}
+					]
+				}
 			}
 		],
 		"fallback": {
