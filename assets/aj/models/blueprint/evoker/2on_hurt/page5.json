@@ -1,6 +1,0 @@
-{
-	"parent": "aj:blueprint/evoker/page5",
-	"textures": {
-		"0": "aj:blueprint/evoker/evoker2_hurt"
-	}
-}

@@ -98,16 +98,6 @@
 						{"type": "minecraft:dye", "default": [1, 1, 1]}
 					]
 				}
-			},
-			{
-				"when": "2on_hurt",
-				"model": {
-					"type": "minecraft:model",
-					"model": "aj:blueprint/evoker/2on_hurt/stick1",
-					"tints": [
-						{"type": "minecraft:dye", "default": [1, 1, 1]}
-					]
-				}
 			}
 		],
 		"fallback": {
