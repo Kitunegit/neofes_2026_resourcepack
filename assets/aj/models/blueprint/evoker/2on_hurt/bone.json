@@ -1,0 +1,6 @@
+{
+	"parent": "aj:blueprint/evoker/bone",
+	"textures": {
+		"0": "aj:blueprint/evoker/evoker2_hurt"
+	}
+}
