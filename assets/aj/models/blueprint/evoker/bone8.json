@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"0": "aj:blueprint/evoker/evoker",
+		"11": "aj:blueprint/evoker/evoker2_hurt",
 		"particle": "minecraft:item/pufferfish"
 	},
 	"display": {
@@ -21,29 +21,29 @@
 			"faces": {
 				"north": {
 					"uv": [4, 5.5, 4.5, 6.25],
-					"texture": "#0"
+					"texture": "#11"
 				},
 				"east": {
 					"uv": [5, 5.5, 4.5, 6.25],
-					"texture": "#0"
+					"texture": "#11"
 				},
 				"south": {
 					"uv": [5, 5.5, 5.5, 6.25],
-					"texture": "#0"
+					"texture": "#11"
 				},
 				"west": {
 					"uv": [4, 5.5, 3.5, 6.25],
-					"texture": "#0"
+					"texture": "#11"
 				},
 				"up": {
 					"uv": [4.75, 2, 4.25, 1.5],
 					"rotation": 180,
-					"texture": "#0"
+					"texture": "#11"
 				},
 				"down": {
 					"uv": [5.25, 1.5, 4.75, 2],
 					"rotation": 180,
-					"texture": "#0"
+					"texture": "#11"
 				}
 			}
 		}

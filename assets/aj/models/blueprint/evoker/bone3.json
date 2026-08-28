@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"0": "aj:blueprint/evoker/evoker",
+		"11": "aj:blueprint/evoker/evoker2_hurt",
 		"particle": "minecraft:item/pufferfish"
 	},
 	"display": {
@@ -21,27 +21,27 @@
 			"faces": {
 				"north": {
 					"uv": [0.05682, 6.25, 0.125, 6.375],
-					"texture": "#0"
+					"texture": "#11"
 				},
 				"east": {
 					"uv": [1.25, 7.375, 2.25, 7.5],
-					"texture": "#0"
+					"texture": "#11"
 				},
 				"south": {
 					"uv": [0, 6.25, 0.06818, 6.375],
-					"texture": "#0"
+					"texture": "#11"
 				},
 				"west": {
 					"uv": [1.25, 7.375, 2.25, 7.5],
-					"texture": "#0"
+					"texture": "#11"
 				},
 				"up": {
 					"uv": [0, 6.25, 0.75, 7.25],
-					"texture": "#0"
+					"texture": "#11"
 				},
 				"down": {
 					"uv": [0, 6.25, 0.75, 7.25],
-					"texture": "#0"
+					"texture": "#11"
 				}
 			}
 		},
@@ -57,27 +57,27 @@
 			"faces": {
 				"north": {
 					"uv": [0.52381, 7.5, 1, 7.375],
-					"texture": "#0"
+					"texture": "#11"
 				},
 				"east": {
 					"uv": [1, 7.25, 2, 7.375],
-					"texture": "#0"
+					"texture": "#11"
 				},
 				"south": {
 					"uv": [0, 7.5, 0.47619, 7.375],
-					"texture": "#0"
+					"texture": "#11"
 				},
 				"west": {
 					"uv": [1, 7.25, 2, 7.375],
-					"texture": "#0"
+					"texture": "#11"
 				},
 				"up": {
 					"uv": [1, 7.25, 1.11905, 7.375],
-					"texture": "#0"
+					"texture": "#11"
 				},
 				"down": {
 					"uv": [1, 7.25, 1.11905, 7.375],
-					"texture": "#0"
+					"texture": "#11"
 				}
 			}
 		}
