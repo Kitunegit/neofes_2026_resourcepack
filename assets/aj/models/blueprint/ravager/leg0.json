@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"0": "aj:blueprint/raveger/beast_raveger",
+		"0": "aj:blueprint/ravager/beast_raveger",
 		"particle": "minecraft:item/pufferfish"
 	},
 	"display": {

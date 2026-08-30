@@ -1,7 +1,7 @@
 {
 	"model": {
 		"type": "minecraft:model",
-		"model": "aj:blueprint/raveger/leg1",
+		"model": "aj:blueprint/ravager/head",
 		"tints": [
 			{"type": "minecraft:dye", "default": [1, 1, 1]}
 		]
