@@ -13,7 +13,7 @@
 				"when": "change",
 				"model": {
 					"type": "minecraft:model",
-					"model": "aj:blueprint/ravager/change/bone2",
+					"model": "aj:blueprint/ravager/change/bone",
 					"tints": [
 						{"type": "minecraft:dye", "default": [1, 1, 1]}
 					]
@@ -22,7 +22,7 @@
 		],
 		"fallback": {
 			"type": "minecraft:model",
-			"model": "aj:blueprint/ravager/bone2",
+			"model": "aj:blueprint/ravager/bone",
 			"tints": [
 				{"type": "minecraft:dye", "default": [1, 1, 1]}
 			]

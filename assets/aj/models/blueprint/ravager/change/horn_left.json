@@ -1,0 +1,6 @@
+{
+	"parent": "aj:blueprint/ravager/horn_left",
+	"textures": {
+		"0": "aj:blueprint/ravager/beast_raveger2"
+	}
+}
