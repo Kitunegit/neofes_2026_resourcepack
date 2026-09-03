@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"0": "aj:blueprint/ravager/beast_raveger",
+		"2": "aj:blueprint/ravager/beast_raveger_hurt",
 		"particle": "minecraft:item/pufferfish"
 	},
 	"display": {
@@ -21,27 +21,27 @@
 			"faces": {
 				"north": {
 					"uv": [1, 1, 2, 2.25],
-					"texture": "#0"
+					"texture": "#2"
 				},
 				"east": {
 					"uv": [0, 1, 1, 2.25],
-					"texture": "#0"
+					"texture": "#2"
 				},
 				"south": {
 					"uv": [3, 1, 4, 2.25],
-					"texture": "#0"
+					"texture": "#2"
 				},
 				"west": {
 					"uv": [2, 1, 3, 2.25],
-					"texture": "#0"
+					"texture": "#2"
 				},
 				"up": {
 					"uv": [2, 1, 1, 0],
-					"texture": "#0"
+					"texture": "#2"
 				},
 				"down": {
 					"uv": [3, 0, 2, 1],
-					"texture": "#0"
+					"texture": "#2"
 				}
 			}
 		},
@@ -57,27 +57,27 @@
 			"faces": {
 				"north": {
 					"uv": [0.25, 0.25, 0.5, 0.75],
-					"texture": "#0"
+					"texture": "#2"
 				},
 				"east": {
 					"uv": [0, 0.25, 0.25, 0.75],
-					"texture": "#0"
+					"texture": "#2"
 				},
 				"south": {
 					"uv": [0.75, 0.25, 1, 0.75],
-					"texture": "#0"
+					"texture": "#2"
 				},
 				"west": {
 					"uv": [0.5, 0.25, 0.75, 0.75],
-					"texture": "#0"
+					"texture": "#2"
 				},
 				"up": {
 					"uv": [0.5, 0.25, 0.25, 0],
-					"texture": "#0"
+					"texture": "#2"
 				},
 				"down": {
 					"uv": [0.75, 0, 0.5, 0.25],
-					"texture": "#0"
+					"texture": "#2"
 				}
 			}
 		},
@@ -93,27 +93,27 @@
 			"faces": {
 				"north": {
 					"uv": [6, 7.3125, 6.375, 7.5625],
-					"texture": "#0"
+					"texture": "#2"
 				},
 				"east": {
 					"uv": [5.9375, 7.3125, 6, 7.5625],
-					"texture": "#0"
+					"texture": "#2"
 				},
 				"south": {
 					"uv": [6.4375, 7.3125, 6.8125, 7.5625],
-					"texture": "#0"
+					"texture": "#2"
 				},
 				"west": {
 					"uv": [6.375, 7.3125, 6.4375, 7.5625],
-					"texture": "#0"
+					"texture": "#2"
 				},
 				"up": {
 					"uv": [6.375, 7.3125, 6, 7.25],
-					"texture": "#0"
+					"texture": "#2"
 				},
 				"down": {
 					"uv": [6.75, 7.25, 6.375, 7.3125],
-					"texture": "#0"
+					"texture": "#2"
 				}
 			}
 		}
