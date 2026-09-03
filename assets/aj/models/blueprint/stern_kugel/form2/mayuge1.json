@@ -1,0 +1,7 @@
+{
+	"parent": "aj:blueprint/stern_kugel/mayuge1",
+	"textures": {
+		"0": "nof:item/3d/kugel_skin2",
+		"2": "aj:blueprint/stern_kugel/eye_2"
+	}
+}

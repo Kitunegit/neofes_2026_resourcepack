@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/diamond",
+  "parent": "minecraft:item/handheld",
   "textures": {
     "layer0": "nof:item/healer_potion_heal"
   }
