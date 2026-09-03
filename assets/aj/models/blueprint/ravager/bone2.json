@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"2": "aj:blueprint/ravager/beast_raveger_hurt",
+		"0": "aj:blueprint/ravager/beast_raveger",
 		"particle": "minecraft:item/pufferfish"
 	},
 	"display": {
@@ -21,27 +21,27 @@
 			"faces": {
 				"north": {
 					"uv": [10.5, 1.75, 11, 2.8125],
-					"texture": "#2"
+					"texture": "#0"
 				},
 				"east": {
 					"uv": [10, 1.75, 10.5, 2.8125],
-					"texture": "#2"
+					"texture": "#0"
 				},
 				"south": {
 					"uv": [11.5, 1.75, 12, 2.8125],
-					"texture": "#2"
+					"texture": "#0"
 				},
 				"west": {
 					"uv": [11, 1.75, 11.5, 2.8125],
-					"texture": "#2"
+					"texture": "#0"
 				},
 				"up": {
 					"uv": [11, 0.5, 10.5, 0],
-					"texture": "#2"
+					"texture": "#0"
 				},
 				"down": {
 					"uv": [11.5, 0, 11, 0.5],
-					"texture": "#2"
+					"texture": "#0"
 				}
 			}
 		}
