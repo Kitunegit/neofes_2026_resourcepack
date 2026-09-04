@@ -18,16 +18,6 @@
 						{"type": "minecraft:dye", "default": [1, 1, 1]}
 					]
 				}
-			},
-			{
-				"when": "fire",
-				"model": {
-					"type": "minecraft:model",
-					"model": "aj:blueprint/stern_kugel/fire/left_arm1",
-					"tints": [
-						{"type": "minecraft:dye", "default": [1, 1, 1]}
-					]
-				}
 			}
 		],
 		"fallback": {

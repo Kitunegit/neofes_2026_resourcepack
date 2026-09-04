@@ -13,7 +13,7 @@
 				"when": "form2",
 				"model": {
 					"type": "minecraft:model",
-					"model": "aj:blueprint/stern_kugel/form2/left_arm2",
+					"model": "aj:blueprint/stern_kugel/form2/bone6",
 					"tints": [
 						{"type": "minecraft:dye", "default": [1, 1, 1]}
 					]
@@ -22,7 +22,7 @@
 		],
 		"fallback": {
 			"type": "minecraft:model",
-			"model": "aj:blueprint/stern_kugel/left_arm2",
+			"model": "aj:blueprint/stern_kugel/bone6",
 			"tints": [
 				{"type": "minecraft:dye", "default": [1, 1, 1]}
 			]

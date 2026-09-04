@@ -1,5 +1,5 @@
 {
-	"parent": "aj:blueprint/stern_kugel/left_arm2",
+	"parent": "aj:blueprint/stern_kugel/bone9",
 	"textures": {
 		"0": "aj:blueprint/stern_kugel/kugel_skin2"
 	}
