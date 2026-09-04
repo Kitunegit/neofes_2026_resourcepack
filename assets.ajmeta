@@ -452,6 +452,8 @@
 				"assets/aj/models/blueprint/stern_kugel/bone3.json",
 				"assets/aj/models/blueprint/stern_kugel/eye.json",
 				"assets/aj/models/blueprint/stern_kugel/eye1.json",
+				"assets/aj/models/blueprint/stern_kugel/fire/left_arm1.json",
+				"assets/aj/models/blueprint/stern_kugel/fire/left_arm2.json",
 				"assets/aj/models/blueprint/stern_kugel/form2/bone1.json",
 				"assets/aj/models/blueprint/stern_kugel/form2/bone2.json",
 				"assets/aj/models/blueprint/stern_kugel/form2/bone3.json",
@@ -494,8 +496,8 @@
 				"assets/aj/models/blueprint/stern_kugel/thumb.json",
 				"assets/aj/models/blueprint/stern_kugel/up_body.json",
 				"assets/aj/textures/blueprint/stern_kugel/eye_2.png",
-				"assets/aj/textures/blueprint/stern_kugel/eyes.png",
-				"assets/aj/textures/blueprint/stern_kugel/kugel_skin.png"
+				"assets/aj/textures/blueprint/stern_kugel/kugel_skin.png",
+				"assets/aj/textures/blueprint/stern_kugel/kugel_skin2.png"
 			]
 		},
 		"aj:wildfire": {

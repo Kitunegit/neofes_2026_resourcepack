@@ -1,7 +1,7 @@
 {
 	"parent": "aj:blueprint/stern_kugel/right_arm2",
 	"textures": {
-		"0": "nof:item/3d/kugel_skin2",
-		"2": "aj:blueprint/stern_kugel/eye_2"
+		"0": "aj:blueprint/stern_kugel/kugel_skin2",
+		"3": "aj:blueprint/stern_kugel/eye_2"
 	}
 }
