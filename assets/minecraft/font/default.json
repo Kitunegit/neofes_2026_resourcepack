@@ -1,0 +1,13 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/wildfire_bossbar.png",
+            "ascent": 2,
+            "height": 22,
+            "chars": [
+                "\uE000"
+            ]
+        }
+    ]
+}

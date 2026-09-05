@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"0": "aj:blueprint/ravager/beast_raveger",
+		"1": "aj:blueprint/ravager/beast_raveger2",
 		"particle": "minecraft:item/pufferfish"
 	},
 	"display": {
@@ -21,27 +21,27 @@
 			"faces": {
 				"north": {
 					"uv": [4.6875, 3.6875, 5, 4.5625],
-					"texture": "#0"
+					"texture": "#1"
 				},
 				"east": {
 					"uv": [4.375, 3.6875, 4.6875, 4.5625],
-					"texture": "#0"
+					"texture": "#1"
 				},
 				"south": {
 					"uv": [5.3125, 3.6875, 5.625, 4.5625],
-					"texture": "#0"
+					"texture": "#1"
 				},
 				"west": {
 					"uv": [5, 3.6875, 5.3125, 4.5625],
-					"texture": "#0"
+					"texture": "#1"
 				},
 				"up": {
 					"uv": [5, 3.6875, 4.6875, 3.375],
-					"texture": "#0"
+					"texture": "#1"
 				},
 				"down": {
 					"uv": [5.3125, 3.375, 5, 3.6875],
-					"texture": "#0"
+					"texture": "#1"
 				}
 			}
 		},
@@ -57,27 +57,27 @@
 			"faces": {
 				"north": {
 					"uv": [7.125, 4.3125, 7.3125, 4.8125],
-					"texture": "#0"
+					"texture": "#1"
 				},
 				"east": {
 					"uv": [6.9375, 4.3125, 7.125, 4.8125],
-					"texture": "#0"
+					"texture": "#1"
 				},
 				"south": {
 					"uv": [7.5, 4.3125, 7.6875, 4.8125],
-					"texture": "#0"
+					"texture": "#1"
 				},
 				"west": {
 					"uv": [7.3125, 4.3125, 7.5, 4.8125],
-					"texture": "#0"
+					"texture": "#1"
 				},
 				"up": {
 					"uv": [7.3125, 4.3125, 7.125, 4.125],
-					"texture": "#0"
+					"texture": "#1"
 				},
 				"down": {
 					"uv": [7.5, 4.125, 7.3125, 4.3125],
-					"texture": "#0"
+					"texture": "#1"
 				}
 			}
 		},
@@ -93,27 +93,27 @@
 			"faces": {
 				"north": {
 					"uv": [4.1875, 7.625, 4.75, 7.625],
-					"texture": "#0"
+					"texture": "#1"
 				},
 				"east": {
 					"uv": [3.625, 7.625, 4.1875, 7.625],
-					"texture": "#0"
+					"texture": "#1"
 				},
 				"south": {
 					"uv": [5.3125, 7.625, 5.875, 7.625],
-					"texture": "#0"
+					"texture": "#1"
 				},
 				"west": {
 					"uv": [4.75, 7.625, 5.3125, 7.625],
-					"texture": "#0"
+					"texture": "#1"
 				},
 				"up": {
 					"uv": [4.75, 7.625, 4.1875, 7.0625],
-					"texture": "#0"
+					"texture": "#1"
 				},
 				"down": {
 					"uv": [5.3125, 7.0625, 4.75, 7.625],
-					"texture": "#0"
+					"texture": "#1"
 				}
 			}
 		},
@@ -129,27 +129,27 @@
 			"faces": {
 				"north": {
 					"uv": [6, 7.0625, 6.5625, 7.0625],
-					"texture": "#0"
+					"texture": "#1"
 				},
 				"east": {
 					"uv": [5.4375, 7.0625, 6, 7.0625],
-					"texture": "#0"
+					"texture": "#1"
 				},
 				"south": {
 					"uv": [7.125, 7.0625, 7.6875, 7.0625],
-					"texture": "#0"
+					"texture": "#1"
 				},
 				"west": {
 					"uv": [6.5625, 7.0625, 7.125, 7.0625],
-					"texture": "#0"
+					"texture": "#1"
 				},
 				"up": {
 					"uv": [6.5625, 7.0625, 6, 6.5],
-					"texture": "#0"
+					"texture": "#1"
 				},
 				"down": {
 					"uv": [7.125, 6.5, 6.5625, 7.0625],
-					"texture": "#0"
+					"texture": "#1"
 				}
 			}
 		}
