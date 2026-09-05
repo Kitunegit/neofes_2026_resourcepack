@@ -1,6 +1,6 @@
 {
 	"parent": "aj:blueprint/stern_kugel/mayuge1",
 	"textures": {
-		"0": "aj:blueprint/stern_kugel/kugel_skin2"
+		"0": "nof:item/3d/kugel_skin2"
 	}
 }
