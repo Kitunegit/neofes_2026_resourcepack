@@ -502,8 +502,7 @@
 				"assets/aj/models/blueprint/stern_kugel/right_leg2.json",
 				"assets/aj/models/blueprint/stern_kugel/thumb1.json",
 				"assets/aj/models/blueprint/stern_kugel/up_body.json",
-				"assets/aj/textures/blueprint/stern_kugel/kugel_skin.png",
-				"assets/aj/textures/blueprint/stern_kugel/kugel_skin2.png"
+				"assets/aj/textures/blueprint/stern_kugel/kugel_skin.png"
 			]
 		},
 		"aj:wildfire": {
