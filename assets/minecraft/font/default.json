@@ -26,6 +26,24 @@
             "chars": [
                 "\uE002"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/sutekuge_bossbar.png",
+            "ascent": 2,
+            "height": 23,
+            "chars": [
+                "\uE003"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/sutekuge_bossbar_stage2.png",
+            "ascent": 2,
+            "height": 24,
+            "chars": [
+                "\uE004"
+            ]
         }
     ]
 }
