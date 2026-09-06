@@ -17,6 +17,15 @@
             "chars": [
                 "\uE001"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/evoker_bossbar.png",
+            "ascent": 2,
+            "height": 23,
+            "chars": [
+                "\uE002"
+            ]
         }
     ]
 }
