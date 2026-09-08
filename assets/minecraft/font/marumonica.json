@@ -1,0 +1,11 @@
+{
+    "providers": [
+        {
+            "type": "ttf",
+            "file": "minecraft:marumonica.ttf",
+            "shift": [0.0, 1.0],
+            "size": 10.0,
+            "oversample": 8
+        }
+    ]
+}
