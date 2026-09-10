@@ -1,0 +1,49 @@
+{
+	"textures": {
+		"0": "aj:blueprint/sravager/beast_raveger",
+		"particle": "minecraft:item/pufferfish"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [2.35294, -16, 5.17647],
+			"to": [13.64706, 8, 16.47059],
+			"rotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"origin": [19.29412, -16, -18.82353]
+			},
+			"faces": {
+				"north": {
+					"uv": [10.5, 1.75, 11, 2.8125],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [10, 1.75, 10.5, 2.8125],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [11.5, 1.75, 12, 2.8125],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [11, 1.75, 11.5, 2.8125],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [11, 0.5, 10.5, 0],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [11.5, 0, 11, 0.5],
+					"texture": "#0"
+				}
+			}
+		}
+	]
+}

@@ -1,6 +1,0 @@
-{
-	"parent": "aj:blueprint/stern_kugel/ravager/horn_left",
-	"textures": {
-		"0": "aj:blueprint/stern_kugel/ravager/beast_raveger_hurt"
-	}
-}
