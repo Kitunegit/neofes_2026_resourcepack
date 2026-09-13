@@ -1,0 +1,6 @@
+{
+	"parent": "aj:blueprint/sevoker/stick1",
+	"textures": {
+		"0": "aj:blueprint/sevoker/evoker_rod"
+	}
+}

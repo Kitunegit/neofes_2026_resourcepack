@@ -1,0 +1,9 @@
+{
+	"parent": "aj:blueprint/sevoker/bone8",
+	"textures": {
+		"0": "aj:blueprint/sevoker/evoker2_yellow",
+		"8": "aj:blueprint/sevoker/evoker2_yellow",
+		"9": "aj:blueprint/sevoker/evoker2_yellow",
+		"10": "aj:blueprint/sevoker/evoker2_yellow"
+	}
+}

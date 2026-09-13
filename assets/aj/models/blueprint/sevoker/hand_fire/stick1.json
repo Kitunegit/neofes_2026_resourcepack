@@ -1,0 +1,7 @@
+{
+	"parent": "aj:blueprint/sevoker/stick1",
+	"textures": {
+		"0": "aj:blueprint/sevoker/evoker_hand",
+		"7": "aj:blueprint/sevoker/evoker1_yellow"
+	}
+}

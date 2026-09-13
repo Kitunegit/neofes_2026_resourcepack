@@ -1,0 +1,6 @@
+{
+	"parent": "aj:blueprint/sevoker/bone6",
+	"textures": {
+		"0": "aj:blueprint/sevoker/evoker2_hurt"
+	}
+}

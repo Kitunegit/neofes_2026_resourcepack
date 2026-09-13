@@ -1,0 +1,6 @@
+{
+	"parent": "aj:blueprint/sevoker/stick",
+	"textures": {
+		"0": "aj:blueprint/sevoker/evoker2_hurt"
+	}
+}

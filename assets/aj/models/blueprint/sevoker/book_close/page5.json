@@ -1,0 +1,6 @@
+{
+	"parent": "aj:blueprint/sevoker/page5",
+	"textures": {
+		"0": "aj:blueprint/sevoker/1evoker_spawn"
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "aj:blueprint/sevoker/coat",
+	"textures": {
+		"1": "aj:blueprint/sevoker/evoker"
+	}
+}

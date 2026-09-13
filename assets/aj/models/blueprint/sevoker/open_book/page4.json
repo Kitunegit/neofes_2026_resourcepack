@@ -1,0 +1,13 @@
+{
+	"parent": "aj:blueprint/sevoker/page4",
+	"textures": {
+		"0": "aj:blueprint/sevoker/evoker",
+		"1": "aj:blueprint/sevoker/evoker",
+		"5": "aj:blueprint/sevoker/evoker",
+		"6": "aj:blueprint/sevoker/evoker",
+		"7": "aj:blueprint/sevoker/evoker",
+		"8": "aj:blueprint/sevoker/evoker2_yellow",
+		"9": "aj:blueprint/sevoker/evoker2_blue",
+		"10": "aj:blueprint/sevoker/evoker2_red"
+	}
+}
