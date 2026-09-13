@@ -1,0 +1,6 @@
+{
+	"parent": "aj:blueprint/swildfire/shield6",
+	"textures": {
+		"0": "aj:blueprint/swildfire/wildfire_normal_damage"
+	}
+}

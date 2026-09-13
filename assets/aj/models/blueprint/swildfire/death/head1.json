@@ -1,0 +1,6 @@
+{
+	"parent": "aj:blueprint/swildfire/head1",
+	"textures": {
+		"0": "aj:blueprint/swildfire/wildfire_death"
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "aj:blueprint/awildfire/body",
+	"textures": {
+		"0": "aj:blueprint/awildfire/wildfire_normal_damage"
+	}
+}

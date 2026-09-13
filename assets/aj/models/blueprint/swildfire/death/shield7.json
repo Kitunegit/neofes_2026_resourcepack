@@ -1,0 +1,6 @@
+{
+	"parent": "aj:blueprint/swildfire/shield7",
+	"textures": {
+		"0": "aj:blueprint/swildfire/wildfire_death"
+	}
+}
