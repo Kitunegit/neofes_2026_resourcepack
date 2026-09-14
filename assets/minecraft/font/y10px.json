@@ -1,0 +1,13 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/sutekuge_name.png",
+            "ascent": -26,
+            "height": 4,
+            "chars": [
+                "ステルンクーゲ"
+            ]
+        }
+    ]
+}

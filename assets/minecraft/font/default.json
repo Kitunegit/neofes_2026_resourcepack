@@ -44,6 +44,93 @@
             "chars": [
                 "\uE004"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/hunter_crossbow.png",
+            "ascent": 15,
+            "height": 16,
+            "chars": [
+                "\uF001"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/stringer_bow.png",
+            "ascent": 15,
+            "height": 16,
+            "chars": [
+                "\uF002"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/mage_staff.png",
+            "ascent": 15,
+            "height": 16,
+            "chars": [
+                "\uF003"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/warrior_axe.png",
+            "ascent": 15,
+            "height": 16,
+            "chars": [
+                "\uF004"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/knight_sword.png",
+            "ascent": 15,
+            "height": 16,
+            "chars": [
+                "\uF005"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/healer_head.png",
+            "ascent": 15,
+            "height": 16,
+            "chars": [
+                "\uF006"
+            ]
+        },
+        {
+            "type": "space",
+            "advances": {
+                "\uE820": 0,
+                "\uE821": 1,
+                "\uE822": 2,
+                "\uE823": 3,
+                "\uE824": 4,
+                "\uE825": 5,
+                "\uE826": 6,
+                "\uE827": 7,
+                "\uE828": 8,
+                "\uE829": 9,
+                "\uE830": 10,
+                "\uE831": -1,
+                "\uE832": -2,
+                "\uE833": -3,
+                "\uE834": -4,
+                "\uE835": -5,
+                "\uE836": -6,
+                "\uE837": -7,
+                "\uE838": -8,
+                "\uE839": -9,
+                "\uE840": -10,
+                "\uE841": -110,
+                "\uE842": -145,
+                "\uE843": -125,
+                "\uE844": -105,
+                "\uE846": -160,
+                "\uF82F": 32768,
+                "\uF82E": -32768
+            }
         }
     ]
 }
