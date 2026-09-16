@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"0": "aj:blueprint/stern_kugel/kugel_skin",
+		"0": "aj:blueprint/stern_kugel/kugel_skin1",
 		"particle": "minecraft:item/pufferfish"
 	},
 	"display": {

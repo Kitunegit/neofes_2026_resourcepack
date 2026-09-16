@@ -100,6 +100,15 @@
             ]
         },
         {
+            "type": "bitmap",
+            "file": "minecraft:font/black.png",
+            "ascent": 80,
+            "height": 284,
+            "chars": [
+                "\uF007"
+            ]
+        },
+        {
             "type": "space",
             "advances": {
                 "\uE820": 0,
