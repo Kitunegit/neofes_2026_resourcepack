@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/diamond",
   "textures": {
-    "layer0": "nof:item/accessories/steel_amulet"
+    "layer0": "nof:item/accessories/typhoon_charm"
   }
 }
