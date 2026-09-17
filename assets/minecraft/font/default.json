@@ -11,6 +11,15 @@
         },
         {
             "type": "bitmap",
+            "file": "minecraft:font/wildfire_bar_name.png",
+            "ascent": 10,
+            "height": 11,
+            "chars": [
+                "\uF100"
+            ]
+        },
+        {
+            "type": "bitmap",
             "file": "minecraft:font/raveger_bossbar.png",
             "ascent": 5,
             "height": 26,
@@ -20,11 +29,29 @@
         },
         {
             "type": "bitmap",
+            "file": "minecraft:font/raveger_bar_name.png",
+            "ascent": 10,
+            "height": 11,
+            "chars": [
+                "\uF101"
+            ]
+        },
+        {
+            "type": "bitmap",
             "file": "minecraft:font/evoker_bossbar.png",
             "ascent": 2,
             "height": 23,
             "chars": [
                 "\uE002"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/evoker_bar_name.png",
+            "ascent": 10,
+            "height": 11,
+            "chars": [
+                "\uF102"
             ]
         },
         {
