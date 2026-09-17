@@ -31,7 +31,7 @@
             "type": "bitmap",
             "file": "minecraft:font/sutekuge_bossbar.png",
             "ascent": 2,
-            "height": 23,
+            "height": 26,
             "chars": [
                 "\uE003"
             ]
