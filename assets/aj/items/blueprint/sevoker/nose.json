@@ -68,6 +68,16 @@
 						{"type": "minecraft:dye", "default": [1, 1, 1]}
 					]
 				}
+			},
+			{
+				"when": "on_hurt1",
+				"model": {
+					"type": "minecraft:model",
+					"model": "aj:blueprint/sevoker/on_hurt1/nose",
+					"tints": [
+						{"type": "minecraft:dye", "default": [1, 1, 1]}
+					]
+				}
 			}
 		],
 		"fallback": {
