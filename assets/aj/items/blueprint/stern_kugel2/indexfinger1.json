@@ -28,6 +28,16 @@
 						{"type": "minecraft:dye", "default": [1, 1, 1]}
 					]
 				}
+			},
+			{
+				"when": "on_hurt",
+				"model": {
+					"type": "minecraft:model",
+					"model": "aj:blueprint/stern_kugel2/on_hurt/indexfinger1",
+					"tints": [
+						{"type": "minecraft:dye", "default": [1, 1, 1]}
+					]
+				}
 			}
 		],
 		"fallback": {
