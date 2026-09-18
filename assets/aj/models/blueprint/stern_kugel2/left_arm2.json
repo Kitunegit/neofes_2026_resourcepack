@@ -1,0 +1,49 @@
+{
+	"textures": {
+		"0": "aj:blueprint/stern_kugel2/kugel_skin1",
+		"particle": "minecraft:item/pufferfish"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [2, -10, 2],
+			"to": [11, 8, 14],
+			"rotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"origin": [38, 20, 8]
+			},
+			"faces": {
+				"north": {
+					"uv": [7.5, 6, 7.125, 6.75],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [7.5, 0, 8, 0.75],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [7.125, 6, 7.5, 6.75],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [7, 0, 7.5, 0.75],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [7.875, 2, 7.5, 1.5],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [7.5, 1, 7.875, 1.5],
+					"texture": "#0"
+				}
+			}
+		}
+	]
+}

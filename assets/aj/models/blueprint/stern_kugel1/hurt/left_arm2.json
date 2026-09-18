@@ -1,6 +1,0 @@
-{
-	"parent": "aj:blueprint/stern_kugel1/left_arm2",
-	"textures": {
-		"0": "aj:blueprint/stern_kugel1/kugel_skin1_damage"
-	}
-}
